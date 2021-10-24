@@ -4,4 +4,4 @@ NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "This will  disappear" 
 echo "This will  disappear" 
-echo "This was added
+echo "This was added" 
