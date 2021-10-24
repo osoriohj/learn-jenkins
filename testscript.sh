@@ -4,3 +4,4 @@ NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "This was added" 
 echo "This was triggered" 
+echo "This was triggered v1" 
